@@ -1,2 +1,2 @@
 this is for ansible
-learn for coding
+updating the topics soon
